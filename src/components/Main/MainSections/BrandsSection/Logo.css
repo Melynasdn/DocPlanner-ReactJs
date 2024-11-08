@@ -1,0 +1,23 @@
+.LogoStyle{
+    display: inline-block;
+    width: 20%;
+    padding: 5px 0 5px 5px;
+    box-sizing: border-box;
+}
+.LogoStyle svg {
+    height: 20px;
+    width: auto;
+    fill:rgb(116, 116, 116) ;
+}
+
+.LogoStyle a img{
+    filter: grayscale(1);
+    }
+    
+    .LogoStyle a svg :hover{
+        fill:#00b39b ;
+    }
+    .LogoStyle a img:hover{
+        filter: none;
+    }
+    

@@ -1,0 +1,29 @@
+.Join{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    margin: 50px auto;
+}
+
+.Join h3{
+    font-size: 2.1428571429em;
+    color: #333;
+    margin-bottom: .75em;
+}
+.Join a {
+    padding-top: 13px;
+    text-decoration: none;
+    color: white;
+    font-weight: 700;
+    letter-spacing: .04em;
+    font-size: .75rem;
+    text-align: center;
+    cursor: pointer;
+    background-color:#3D83DF;
+    border-radius: 8px;
+    border: none;
+    height: 40px;
+    width: 250px;
+}

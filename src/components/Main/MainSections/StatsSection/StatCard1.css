@@ -1,0 +1,18 @@
+.statCard{
+    background-color: white;
+    width: 225px;
+    height: 255px;
+    display: flex;
+    flex-direction: column;
+    border-radius: 5px;
+    align-items: center;
+    padding: 10px 15px;
+    gap: 15px;
+    text-align: center;
+}
+.statCard h3{
+    font-size: 22px;
+}
+.statCard p{
+    font-size: 15px;
+}

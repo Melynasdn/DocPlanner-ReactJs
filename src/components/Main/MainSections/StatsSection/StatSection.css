@@ -1,0 +1,48 @@
+.stats{
+    background-color: #DEF8F7;
+    height: 95vh;
+    padding: 30px 190px;
+    display: flex;
+    justify-content: space-between;
+    position: relative;
+    margin-bottom: 30px;
+    margin-left: -150px;
+    margin-right: -150px;
+}
+.GrandLogo{
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    height: 350px;
+    width: auto;
+
+}
+
+.stats-items{
+    width: 50%;
+    padding-bottom: 20px;
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap: 20px;
+    justify-items: center;
+}
+.stats-items :first-child{
+   margin-top: 30px;
+}
+.stats-items :nth-child(4){
+   margin-top: -30px;
+}
+
+.stats-header h1{
+    font-size: 2em;
+    color: #00b39b;
+    font-weight: 100;
+    margin-top: 20px;
+}
+
+
+.stats-header{
+  width: 40%;
+  
+  margin-left: 40px;
+}

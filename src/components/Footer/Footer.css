@@ -1,0 +1,14 @@
+.FooterStyle{
+    text-align: center;
+    padding: 20px;
+    height: 8vh;
+}
+.FooterStyle p {
+    font-size: 12px;
+    color: #ababab;
+}
+.FooterStyle a {
+    font-size: 12px;
+    color: blue;
+}
+

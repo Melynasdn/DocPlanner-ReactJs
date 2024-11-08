@@ -1,0 +1,22 @@
+.BrandsSection{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    margin: 20px 30px;
+}
+.BrandsSection h2{
+    font-size: 1.625em;
+    letter-spacing: -.3px;
+    margin-right: 20px;
+}
+
+.brands__logos{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    font-size: 0;
+    width: 67%;
+    margin-left: 20px;
+    gap: 30px;
+}

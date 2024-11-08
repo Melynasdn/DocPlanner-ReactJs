@@ -1,0 +1,35 @@
+
+.CardStyle{
+    background-color: #1b2734;
+    display: inline-block;
+    width: 26%;
+    color: white;
+    border-radius: 10px;
+    height: 340px;
+    padding: 20px;
+    margin: 0 15px;
+    text-align: left;
+    position: relative;
+    cursor: pointer;
+}
+
+.CardStyle h1{
+    font-size: 1.625em;
+    font-weight: 400;
+    color: white;
+    margin: 10px 0;
+}
+.CardStyle p{
+    font-size: 1.5em;
+    font-weight: 300;
+    line-height: 1.2;
+    color: white;
+}
+.BOTTOM select{
+    position: absolute;
+    bottom: 30px;
+    background: transparent;
+    border: 0;
+    cursor: pointer;
+    color: white; 
+}
